@@ -4,5 +4,5 @@ let giveDateTime = function () {
   return Date()
 }
 
-exports = giveDateTime
+exports.giveDateTime = giveDateTime
 console.log(exports, module.exports)
