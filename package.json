@@ -1,0 +1,26 @@
+{
+  "name": "learn_javascript_in_two_weeks",
+  "version": "1.0.0",
+  "description": "Learn the concepts of javascript in a short span of time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prayaganeethu/crashLearningJS.git"
+  },
+  "keywords": [
+    "callbacks",
+    "package.json",
+    "modules",
+    "error-handling",
+    "try-catch"
+  ],
+  "author": "Neethu Mohandas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prayaganeethu/crashLearningJS/issues"
+  },
+  "homepage": "https://github.com/prayaganeethu/crashLearningJS#readme"
+}
