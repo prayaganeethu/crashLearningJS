@@ -8,7 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "modules": "bin/runModules.js"
+    "modules": "bin/runModules.js",
+    "callbacks":"bin/runCallbacks.js"
   },
   "repository": {
     "type": "git",
