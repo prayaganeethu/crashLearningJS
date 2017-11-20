@@ -9,7 +9,7 @@
   },
   "bin": {
     "modules": "bin/runModules.js",
-    "callbacks":"bin/runCallbacks.js"
+    "callbacks": "bin/runCallbacks.js"
   },
   "repository": {
     "type": "git",
@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/prayaganeethu/crashLearningJS/issues"
   },
-  "homepage": "https://github.com/prayaganeethu/crashLearningJS#readme"
+  "homepage": "https://github.com/prayaganeethu/crashLearningJS#readme",
+  "dependencies": {
+    "shelljs": "^0.7.8"
+  }
 }
